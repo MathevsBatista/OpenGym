@@ -1,0 +1,11 @@
+UseCase,Namespace,Definition
+"[UC9] Exportar/importar Exercício","",""
+"[UC8] Exportar/importar Rotina","",""
+"[UC4] Excluir Rotina","",""
+"[UC1] Cadastrar Exercício","",""
+"[UC2] Montar Rotina","",""
+"[UC3] Modificar Rotina","",""
+"[UC5] Excluir Exercício","",""
+"[UC7] Ver Histórico","",""
+"[UC6] Iniciar Rotina","",""
+"[UC10] Configurar Aplicativo","",""
